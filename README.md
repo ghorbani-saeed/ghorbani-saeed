@@ -18,11 +18,11 @@
 
 <br>
 
-<div align="center">
+<!-- <div align="center">
   <a href="https://github.com/ghorbani-saeed">
     <img src="https://github-readme-stats.vercel.app/api?username=ghorbani-saeed&show_icons=true&theme=dracula&count_private=true" alt="GitHub Stats" />
   </a>
-</div>
+</div> -->
 
 ###
 
