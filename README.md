@@ -35,7 +35,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ghorbani-saeed&show_icons=true&theme=dracula" alt="ghorbani-saeed stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ghorbani-saeed&show_icons=true&theme=dracula" alt="GitHub Stats" />
 </div>
 </div>
 
