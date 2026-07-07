@@ -21,7 +21,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ghorbani-saeed&show_icons=true&theme=dracula" alt="GitHub Stats" />
+  <p>Besuche meine GitHub-Statistiken hier:</p>
+  <a href="https://github.com/ghorbani-saeed">Meine GitHub Profil-Statistik</a>
 </div>
 </div>
 
